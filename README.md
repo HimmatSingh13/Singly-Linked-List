@@ -15,4 +15,4 @@
               9)Display()
               10)End
 ##### Conclusion:-
-                  From this proram we learnt how to erform different types of insertion and deletion functions n singly linked list.
+                  From this proram we learnt how to perform different types of insertion and deletion functions n singly linked list.
